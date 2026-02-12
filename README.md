@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Network-Packet-Sniffer-Traffic-Analyse-GUI
+# 🕵️‍♂️ Network Packet Sniffer Traffic Analyzer
 
 Captures &amp; Analyses live network traffic in real time to detect suspicious activities using rule-based, MITRE-mapped, and machine-learning techniques.
 
